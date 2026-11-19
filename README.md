@@ -144,4 +144,4 @@ Projeto desenvolvido para a **Global Solution 022026 FIAP — Turma 2TSCOA**.
 =======
 * Nome: VITOR "ZETTAVYTE" ANTUNES
 >>>>>>> 8076a04960f223c091837804454ad29b8642f71c
-* Vídeo Pitch: <Inserir link do vídeo>
+* Vídeo Pitch: https://youtu.be/_sjvBB5aStM
