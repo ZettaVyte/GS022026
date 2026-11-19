@@ -156,7 +156,7 @@ CATALOGO_TERRITORIAL = {
 # BARRA LATERAL (MODO DE ACESSIBILIDADE E TERRITÓRIO)
 # ==============================================================================
 with st.sidebar:
-    st.markdown("## 🐢 Aplicativo **Acredite**")
+    st.markdown("## 🐢 Aplicativo **Acredite**\nCriado por Vitor \"ZettaVyte\" Antunes")
     st.divider()
     modo_operacao = st.radio(
         "Modo de Acesso (Inclusão Digital):",
