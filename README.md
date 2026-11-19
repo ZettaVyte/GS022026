@@ -79,10 +79,18 @@ Por limitações de acesso a microdados individuais anonimizados que cruzassem s
 └── README.md                     # Documentação do projeto
 ```
 
+<<<<<<< HEAD
 # 🚀 Como Executar Localmente
 1. Pré-requisitos
 Recomenda-se **Python 3.11.x** em um ambiente virtual isolado (*venv* ou *pyenv*).
 
+=======
+🚀 Como Executar Localmente
+1. Pré-requisitos
+Recomenda-se **Python 3.11.x** em um ambiente virtual isolado (*venv* ou *pyenv*).
+
+Bash
+>>>>>>> 8076a04960f223c091837804454ad29b8642f71c
 # Clone o repositório
 `git clone [https://github.com/](https://github.com/)ZettaVyte/GS022026.git`
 `cd GS022026`
@@ -131,5 +139,9 @@ Como esta entrega representa uma prova de conceito acadêmica executada localmen
 # 👥 Autoria
 Projeto desenvolvido para a **Global Solution 022026 FIAP — Turma 2TSCOA**.
 
+<<<<<<< HEAD
 * Nome: **VITOR "ZETTAVYTE" ANTUNES**
+=======
+* Nome: VITOR "ZETTAVYTE" ANTUNES
+>>>>>>> 8076a04960f223c091837804454ad29b8642f71c
 * Vídeo Pitch: <Inserir link do vídeo>
